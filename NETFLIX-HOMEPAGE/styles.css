@@ -136,7 +136,8 @@ body {
 }
 
 .form-container {
-  background-color: white;
+  background-color: rgba(133, 128, 128, 0.189);
+  filter: opacity(1000%);
   width: 90%;
   height: 50px;
   position: relative;
